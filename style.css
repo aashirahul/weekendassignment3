@@ -144,9 +144,9 @@ li{
 .item{
 	margin: 10px;
 	width:225px;
-	border: 1px solid black;
 	display: inline-block;
 	background: white;
+	border: 1px solid lightgrey;
 
 }
 .title{
